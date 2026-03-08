@@ -48,7 +48,11 @@
 <p align="left">📫 Connect With Me<br><br>GitHub: https://github.com/Deveshg986</p>
 
 ###
+## 🚀 Tech Stack
 
+<p>
+<img src="https://skillicons.dev/icons?i=c,python,java,react,nodejs,express,mysql,git,github,vscode"/>
+</p>
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Deveshg986&show_icons=true&theme=tokyonight)
