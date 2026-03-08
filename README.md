@@ -1,8 +1,9 @@
-<h1 align="left">Hi 👋 I'm Devesh Gawas</h1>
+<h1 align="center">Hi 👋, I'm Devesh Gawas</h1>
+<h3 align="center">Aspiring Software Developer | Full Stack Learner</h3>
 
-###
-
-<p align="left">🎓 Second Year B.E./B.Tech Student at<br>🏫 Yashwantrao Bhonsale Institute of Technology<br><br>💻 Passionate about Software Development, Problem Solving, and Learning Computer Science Concepts</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Node+%7C+Java;Learning+System+Design;Building+Projects&center=true&width=500&height=45">
+</p>
 
 ###
 
